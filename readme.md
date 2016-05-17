@@ -4,4 +4,4 @@
 
 *  [Markdown markdown] stuff [/markdown]
  
-Go to this link(http://www.google.ca)
+Go to this [link](http://www.google.ca)
