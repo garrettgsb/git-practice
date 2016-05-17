@@ -3,5 +3,5 @@
 *  This is a readme for Test Branch
 
 *  [Markdown markdown] stuff [/markdown]
-
-LET'S GET WEIRD!
+ 
+Go to this [link](http://www.google.ca)
